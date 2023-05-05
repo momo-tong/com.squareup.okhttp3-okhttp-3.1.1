@@ -51,3 +51,5 @@
     </plugins>
   </build>
 </project>
+
+<!-- Added to trigger github security checks -->
